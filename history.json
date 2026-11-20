@@ -1,0 +1,1209 @@
+{
+  "title": "The history of the falling cat",
+  "tagline": "From a Paris photograph in 1894 to robot dogs: three centuries of asking how a cat turns over on nothing.",
+  "intro": "Scientists have wondered how cats land on their feet since at least 1700. Marey's 1894 film proved a cat turns over with nothing to push on, which seemed to break the law of angular momentum and set off a debate in Paris. Physiologists, engineers, vets and mathematicians have been unpicking it ever since.",
+  "eras": [
+    {
+      "id": "before",
+      "name": "Before the camera",
+      "from": 1700,
+      "to": 1893,
+      "color": "#c49bff",
+      "summary": "Scientists dropped cats and wondered, but nobody could see the turn: it is over in a fraction of a second."
+    },
+    {
+      "id": "debate",
+      "name": "The Paris debate",
+      "from": 1894,
+      "to": 1911,
+      "color": "#ffb547",
+      "summary": "Marey's film showed a cat turning with no spin, and physicists had to restate what conservation of angular momentum really allows."
+    },
+    {
+      "id": "body",
+      "name": "How the body does it",
+      "from": 1912,
+      "to": 1990,
+      "color": "#a3e635",
+      "summary": "Physiologists traced the reflex to the inner ear, filmed it at high speed and timed how kittens learn it."
+    },
+    {
+      "id": "space",
+      "name": "Astronauts and geometry",
+      "from": 1962,
+      "to": 1995,
+      "color": "#8ef0ff",
+      "summary": "The space age turned the cat into an engineering problem, and mathematicians found deep geometry in it."
+    },
+    {
+      "id": "today",
+      "name": "Falls, robots and spines",
+      "from": 1987,
+      "to": 2026,
+      "color": "#ff7a59",
+      "summary": "Vets studied cats that fall from buildings, engineers built robots that land like cats, and anatomists found what makes the cat's spine so twistable."
+    }
+  ],
+  "events": [
+    {
+      "year": 1700,
+      "date": "1700",
+      "era": "before",
+      "art": "scroll",
+      "key": false,
+      "title": "First scientific paper on cat-righting",
+      "who": "Antoine Parent",
+      "where": "Paris Académie royale des sciences",
+      "country": "France",
+      "text": "According to physicist-historian Gregory Gbur, the French scientist Antoine Parent published the first research paper on how cats right themselves in 1700. His explanation was later shown to be wrong.",
+      "why": "It marks the start of a 300-year scientific puzzle.",
+      "box": "",
+      "sources": [
+        7,
+        9,
+        12
+      ]
+    },
+    {
+      "year": 1870,
+      "date": "3 January 1870",
+      "era": "before",
+      "art": "quill",
+      "key": true,
+      "title": "Maxwell's 'cat-turning' letter",
+      "who": "James Clerk Maxwell",
+      "where": "Trinity College, Cambridge",
+      "country": "United Kingdom",
+      "text": "Writing to his wife while examining for the Mathematical Tripos, Maxwell joked that Trinity legend said he threw cats out of windows. He explained the real question was how fast a cat turns, and that even dropped onto a bed from about two inches, a cat still lands on its feet. The letter was printed in his 1882 biography.",
+      "why": "Shows top physicists were already puzzling over the trick decades before photography could catch it.",
+      "box": "puzzle",
+      "sources": [
+        5,
+        4
+      ]
+    },
+    {
+      "year": 1887,
+      "date": "1887",
+      "era": "before",
+      "art": "boxcamera",
+      "key": false,
+      "title": "Muybridge photographs a running cat",
+      "who": "Eadweard Muybridge",
+      "where": "University of Pennsylvania, Philadelphia",
+      "country": "United States",
+      "text": "Muybridge's 781-plate Animal Locomotion included plate 717, a cat trotting and breaking into a gallop. It shows sequence photography was ready to capture fast animal motion, though this plate is a running cat, not a falling one.",
+      "why": "Sequence photography set the stage for Marey's falling-cat film.",
+      "box": "",
+      "sources": [
+        13
+      ]
+    },
+    {
+      "year": 1894,
+      "date": "October 1894",
+      "era": "debate",
+      "art": "film",
+      "key": true,
+      "title": "Marey films a falling cat for the Academy",
+      "who": "Étienne-Jules Marey",
+      "where": "Paris, France",
+      "country": "France",
+      "text": "At his Station physiologique in Paris, Marey filmed a cat let go upside down and showed the frames to the Academy of Sciences. They show it starts with no spin, so it cannot have pushed off the hand. It bends, turns its front half with the legs tucked, then the back half, and lands upright.",
+      "why": "Photographic proof that a cat turns over with nothing to push against.",
+      "box": "puzzle",
+      "sources": [
+        0,
+        1,
+        3,
+        7
+      ]
+    },
+    {
+      "year": 1894,
+      "date": "29 October 1894",
+      "era": "debate",
+      "art": "pendulum",
+      "key": false,
+      "title": "Guyou explains the mechanics",
+      "who": "Émile Guyou",
+      "where": "Académie des sciences, Paris",
+      "country": "France",
+      "text": "Commandant Guyou, a naval officer and Academy member whom Marey credited with the explanation, showed that a body can rotate in steps while its total angular momentum stays zero. Changing which half has the larger moment of inertia makes each twist leave a net turn.",
+      "why": "Showed the 'impossible' flip does not break the law of conservation of angular momentum.",
+      "box": "tuck",
+      "sources": [
+        0
+      ]
+    },
+    {
+      "year": 1894,
+      "date": "29 October 1894",
+      "era": "debate",
+      "art": "person",
+      "key": false,
+      "title": "Maurice Lévy: a cat could flip even in a vacuum",
+      "who": "Maurice Lévy",
+      "where": "Académie des sciences, Paris",
+      "country": "France",
+      "text": "Lévy noted the question had been raised at the previous session and argued that jointed bodies such as humans and cats can reorient themselves without outside forces. He even described how a person floating in a vacuum could rotate by cycling the legs.",
+      "why": "Generalised the cat trick to any jointed body, including astronauts decades later.",
+      "box": "beyond",
+      "sources": [
+        0
+      ]
+    },
+    {
+      "year": 1894,
+      "date": "29 October 1894",
+      "era": "debate",
+      "art": "person",
+      "key": false,
+      "title": "A gymnast comparison",
+      "who": "M. Mesny",
+      "where": "Académie des sciences, Paris",
+      "country": "France",
+      "text": "At the same session, Mesny pointed out that gymnasts make similar movements while falling vertically.",
+      "why": "An early link between the cat trick and human acrobatics.",
+      "box": "beyond",
+      "sources": [
+        0
+      ]
+    },
+    {
+      "year": 1894,
+      "date": "5 November 1894",
+      "era": "debate",
+      "art": "scroll",
+      "key": false,
+      "title": "Deprez admits the textbooks were wrong",
+      "who": "Marcel Deprez",
+      "where": "Académie des sciences, Paris",
+      "country": "France",
+      "text": "Deprez said he had once dropped cats onto a cushion and had urged Marey to photograph them. He granted that the standard textbook statement of the law, as written by many authors, had been too strict, and proposed a device to demonstrate the effect.",
+      "why": "Shows the cat forced physicists to restate a basic theorem more carefully.",
+      "box": "",
+      "sources": [
+        0
+      ]
+    },
+    {
+      "year": 1894,
+      "date": "5 November 1894",
+      "era": "debate",
+      "art": "gear",
+      "key": false,
+      "title": "Appell's wheel-and-workers example",
+      "who": "Paul Appell",
+      "where": "Académie des sciences, Paris",
+      "country": "France",
+      "text": "Appell offered a teaching example: workers walking around a frictionless wheel and changing position in four phases can leave the wheel turned, though it started and ended at rest.",
+      "why": "A simple model of how shape changes produce rotation without spin.",
+      "box": "tuck",
+      "sources": [
+        0
+      ]
+    },
+    {
+      "year": 1894,
+      "date": "22 November 1894",
+      "era": "debate",
+      "art": "word",
+      "key": false,
+      "title": "Nature reports the tumbling cat",
+      "who": "Nature (editorial)",
+      "where": "London",
+      "country": "United Kingdom",
+      "text": "The journal Nature printed Marey's frames under the title Photographs of a Tumbling Cat, taking the Paris argument to English-speaking scientists.",
+      "why": "Took the debate to an international English-speaking audience.",
+      "box": "",
+      "sources": [
+        2
+      ]
+    },
+    {
+      "year": 1895,
+      "date": "January 1895",
+      "era": "debate",
+      "art": "quill",
+      "key": false,
+      "title": "Peano's cat note",
+      "who": "Giuseppe Peano",
+      "where": "Turin",
+      "country": "Italy",
+      "text": "The mathematician Peano published a short explanation of the cat's turn in his Rivista di Matematica. He then applied the same idea to the slow wandering of Earth's rotation pole.",
+      "why": "The cat problem spilled into geophysics.",
+      "box": "",
+      "sources": [
+        10,
+        11
+      ]
+    },
+    {
+      "year": 1895,
+      "date": "1895-1896",
+      "era": "debate",
+      "art": "earth",
+      "key": false,
+      "title": "Peano and Volterra clash over Earth's wobble",
+      "who": "Giuseppe Peano, Vito Volterra",
+      "where": "Turin and Rome",
+      "country": "Italy",
+      "text": "Peano's paper on the pole shift of the Earth used cat-like internal motions, and Vito Volterra replied in notes to the Turin and Lincei academies. The exchange ran until early 1896.",
+      "why": "An example of a cat puzzle informing a serious planetary-physics debate.",
+      "box": "",
+      "sources": [
+        10
+      ]
+    },
+    {
+      "year": 1907,
+      "date": "1907",
+      "era": "debate",
+      "art": "quill",
+      "key": false,
+      "title": "Stokes's daughter records 'cat-turning'",
+      "who": "Isabella Humphry (Mrs Laurence Humphry); George Gabriel Stokes",
+      "where": "Cambridge",
+      "country": "United Kingdom",
+      "text": "In a memoir of her father, George Gabriel Stokes's daughter recalled that he, like Maxwell at about the same time, was interested in cat-turning: dropping a cat back-down close to the floor to watch it land on its feet.",
+      "why": "Independent evidence that Victorian physicists experimented with falling cats.",
+      "box": "",
+      "sources": [
+        6,
+        4
+      ]
+    },
+    {
+      "year": 1911,
+      "date": "December 1911",
+      "era": "debate",
+      "art": "word",
+      "key": false,
+      "title": "Science asks how a falling cat turns over",
+      "who": "W. S. Franklin",
+      "where": "United States (Science)",
+      "country": "United States",
+      "text": "Physicist W. S. Franklin published 'How a falling cat turns over in the air' in Science.",
+      "why": "Shows the puzzle was still live among physicists after Marey.",
+      "box": "",
+      "sources": [
+        17
+      ]
+    },
+    {
+      "year": 1922,
+      "date": "1922",
+      "era": "body",
+      "art": "brain",
+      "key": false,
+      "title": "Rademaker joins Magnus's posture laboratory",
+      "who": "G. G. J. Rademaker, Rudolf Magnus",
+      "where": "Utrecht",
+      "country": "Netherlands",
+      "text": "Rademaker joined the Utrecht laboratory where Rudolf Magnus's group studied posture. His surgical skill, helped by his wife Blanche Stoltz's care of the animals, made long experiments possible.",
+      "why": "The Utrecht school became the centre of righting-reflex research.",
+      "box": "senses",
+      "sources": [
+        15
+      ]
+    },
+    {
+      "year": 1924,
+      "date": "1924",
+      "era": "body",
+      "art": "ear",
+      "key": false,
+      "title": "Magnus publishes Körperstellung",
+      "who": "Rudolf Magnus",
+      "where": "Utrecht (published Berlin)",
+      "country": "Netherlands / Germany",
+      "text": "Magnus's book on body posture showed that the inner-ear labyrinth is the main sense organ for posture and balance, and catalogued the reflexes that set the body upright.",
+      "why": "It established the neurology behind the righting reflex.",
+      "box": "senses",
+      "sources": [
+        14
+      ]
+    },
+    {
+      "year": 1935,
+      "date": "1935",
+      "era": "body",
+      "art": "skeleton",
+      "key": true,
+      "title": "Bend-and-twist model",
+      "who": "G. G. J. Rademaker, J. W. G. ter Braak",
+      "where": "Leiden",
+      "country": "Netherlands",
+      "text": "The Dutch physiologists Rademaker and ter Braak proposed that the cat bends at its middle and rotates its two halves about their own axes. Gbur calls this the most important part of the righting motion.",
+      "why": "Introduced the mechanism later confirmed by computer models.",
+      "box": "bend",
+      "sources": [
+        7,
+        15
+      ]
+    },
+    {
+      "year": 1955,
+      "date": "September 1955",
+      "era": "body",
+      "art": "filmreel",
+      "key": true,
+      "title": "Filming a falling cat at 1500 frames a second",
+      "who": "Donald A. McDonald",
+      "where": "United Kingdom (Physiological Society)",
+      "country": "United Kingdom",
+      "text": "McDonald presented high-speed film of a freely falling cat, shot at 1500 frames per second, to the Physiological Society.",
+      "why": "Gave far finer detail of the twist than Marey's camera.",
+      "box": "puzzle",
+      "sources": [
+        16,
+        40
+      ]
+    },
+    {
+      "year": 1962,
+      "date": "1962",
+      "era": "space",
+      "art": "rocket",
+      "key": false,
+      "title": "Air Force 'Cat Reflex' for astronauts",
+      "who": "Aerospace Medical Research Laboratories (Kulwicki, Schlei, Vergamini)",
+      "where": "Wright-Patterson AFB, Ohio",
+      "country": "United States",
+      "text": "An Air Force report, 'Weightless Man: Self-Rotation Techniques', proposed nine ways an astronaut could turn without pushing on anything. The first, called the Cat Reflex, copied falling cats.",
+      "why": "Turned the cat trick into a spaceflight technique.",
+      "box": "beyond",
+      "sources": [
+        21
+      ]
+    },
+    {
+      "year": 1968,
+      "date": "16 August 1968",
+      "era": "space",
+      "art": "person",
+      "key": false,
+      "title": "Life shows astronauts moving like cats",
+      "who": "Thomas R. Kane",
+      "where": "Stanford University, California",
+      "country": "United States",
+      "text": "Life magazine featured Kane's NASA-funded work, with a trampolinist in a spacesuit copying a falling cat's moves to turn in mid-air.",
+      "why": "Made the cat-astronaut link famous.",
+      "box": "beyond",
+      "sources": [
+        20
+      ]
+    },
+    {
+      "year": 1969,
+      "date": "July 1969",
+      "era": "space",
+      "art": "gear",
+      "key": true,
+      "title": "Kane and Scher's two-cylinder cat",
+      "who": "Thomas R. Kane, M. P. Scher",
+      "where": "Stanford University",
+      "country": "United States",
+      "text": "Kane and Scher modelled the cat as two cylinders joined at the spine that bend and twist without total spin, and showed this matches the turn. NASA funded the work.",
+      "why": "Widely regarded as the first full mechanical solution.",
+      "box": "bend",
+      "sources": [
+        18,
+        40,
+        4
+      ]
+    },
+    {
+      "year": 1970,
+      "date": "15 January 1970",
+      "era": "space",
+      "art": "rocket",
+      "key": false,
+      "title": "From cats to astronaut self-rotation",
+      "who": "Thomas R. Kane",
+      "where": "4th Aerospace Mechanisms Symposium (JPL proceedings)",
+      "country": "United States",
+      "text": "Kane presented a dynamic analysis linking cat motion to self-rotation manoeuvres for a free-falling astronaut.",
+      "why": "Carried the cat solution directly into space engineering.",
+      "box": "beyond",
+      "sources": [
+        19
+      ]
+    },
+    {
+      "year": 1978,
+      "date": "July 1978",
+      "era": "body",
+      "art": "eye",
+      "key": false,
+      "title": "When do newborn kittens learn the trick?",
+      "who": "T. Yamamoto",
+      "where": "Japan (Physiological Society of Japan)",
+      "country": "Japan",
+      "text": "Yamamoto dropped newborn kittens upside down from 30-40 cm daily for 36 days. Kittens aged 27 days or younger did not right themselves.",
+      "why": "Showed the reflex is not present at birth.",
+      "box": "senses",
+      "sources": [
+        25
+      ]
+    },
+    {
+      "year": 1979,
+      "date": "March 1979",
+      "era": "body",
+      "art": "brain",
+      "key": true,
+      "title": "Air righting matures by five weeks",
+      "who": "J. R. Villablanca, C. E. Olmstead",
+      "where": "United States (Developmental Psychobiology)",
+      "country": "United States",
+      "text": "Tracking kittens from birth to 120 days, the authors found air righting starts to appear around day 25 and is mature by day 35.",
+      "why": "Gives a widely cited timetable for kitten development.",
+      "box": "senses",
+      "sources": [
+        26,
+        27
+      ]
+    },
+    {
+      "year": 1984,
+      "date": "1984",
+      "era": "body",
+      "art": "ear",
+      "key": false,
+      "title": "Blind kittens right themselves on schedule",
+      "who": "J. Cremieux, C. Veraart, M. C. Wanet",
+      "where": "",
+      "country": "",
+      "text": "Kittens blind from birth developed the reflex exactly like sighted kittens, mature by 33 days. The authors concluded the reflex is mainly driven by the inner-ear vestibular system.",
+      "why": "Shows balance organs, not eyes, drive the reflex.",
+      "box": "senses",
+      "sources": [
+        28
+      ]
+    },
+    {
+      "year": 1984,
+      "date": "December 1984",
+      "era": "body",
+      "art": "neuron",
+      "key": false,
+      "title": "Mapping kitten postural reflexes",
+      "who": "J. A. Sechzer and colleagues",
+      "where": "United States (Experimental Neurology)",
+      "country": "United States",
+      "text": "Sechzer's team scored kittens' reflexes from birth to 7 weeks and found air righting developed by the 5th week, with reflexes maturing from head to tail.",
+      "why": "Confirms the five-week timetable.",
+      "box": "senses",
+      "sources": [
+        27,
+        41
+      ]
+    },
+    {
+      "year": 1987,
+      "date": "18 May 1987",
+      "era": "space",
+      "art": "wave",
+      "key": false,
+      "title": "Shapes, gauge fields and swimming",
+      "who": "Alfred Shapere, Frank Wilczek",
+      "where": "UC Santa Barbara",
+      "country": "United States",
+      "text": "Shapere and Wilczek described self-propulsion of tiny swimmers as a gauge field over the space of shapes. The same geometry describes how a cat turns by changing shape.",
+      "why": "Connected the cat to modern geometric phase ideas.",
+      "box": "bend",
+      "sources": [
+        22,
+        40
+      ]
+    },
+    {
+      "year": 1987,
+      "date": "1 December 1987",
+      "era": "today",
+      "art": "building",
+      "key": true,
+      "title": "High-rise syndrome in New York cats",
+      "who": "W. O. Whitney, C. J. Mehlhaff",
+      "where": "Animal Medical Center, New York",
+      "country": "United States",
+      "text": "Two New York vets, W. O. Whitney and C. J. Mehlhaff, described 132 cats treated after falls from buildings over five months. 90% of the treated cats survived, most with chest injuries. Cats killed outright rarely reached the hospital, so the sample leaves them out.",
+      "why": "Real-world data on falling cats, with a survivorship-bias caveat.",
+      "box": "landing",
+      "sources": [
+        31,
+        33,
+        34,
+        42
+      ]
+    },
+    {
+      "year": 1990,
+      "date": "February 1990",
+      "era": "body",
+      "art": "neuron",
+      "key": false,
+      "title": "Rats show a central motor program",
+      "who": "Y. Laouris, J. Kalli-Laouri, P. Schwartze",
+      "where": "",
+      "country": "",
+      "text": "Studying rat pups, the team found air righting develops between days 8 and 18 even when neck and pelvis twists were blocked. They rejected Magnus's chain-of-reflexes idea for a built-in motor program.",
+      "why": "Challenged the classic explanation of how the brain runs the reflex.",
+      "box": "senses",
+      "sources": [
+        29
+      ]
+    },
+    {
+      "year": 1993,
+      "date": "1993",
+      "era": "space",
+      "art": "orbit",
+      "key": true,
+      "title": "Gauge theory of the falling cat",
+      "who": "Richard Montgomery",
+      "where": "UC Santa Cruz",
+      "country": "United States",
+      "text": "Montgomery analysed the Kane-Scher cat using gauge theory, the mathematics also used in particle physics. The paper appeared in the first volume of Fields Institute Communications, devoted to the falling cat and related problems.",
+      "why": "Made the cat a showcase example of geometric mechanics.",
+      "box": "bend",
+      "sources": [
+        23,
+        40,
+        24
+      ]
+    },
+    {
+      "year": 1995,
+      "date": "December 1995",
+      "era": "space",
+      "art": "earth",
+      "key": false,
+      "title": "Cats in weightlessness",
+      "who": "S. Mori",
+      "where": "Nagoya",
+      "country": "Japan",
+      "text": "A review of parabolic-flight and space experiments noted that basic vestibular reflexes, such as the cat's righting reflex, may be affected in weightlessness.",
+      "why": "Shows the reflex depends on sensing gravity.",
+      "box": "senses",
+      "sources": [
+        30
+      ]
+    },
+    {
+      "year": 2001,
+      "date": "2001",
+      "era": "today",
+      "art": "building",
+      "key": false,
+      "title": "Greek high-rise cats",
+      "who": "Papazoglou et al.",
+      "where": "Greece",
+      "country": "Greece",
+      "text": "A Greek study of 207 cats (1988-1998) found a mean fall of 3.7 storeys and fractures in half the cats.",
+      "why": "Added European data to the high-rise picture.",
+      "box": "landing",
+      "sources": [
+        32
+      ]
+    },
+    {
+      "year": 2004,
+      "date": "October 2004",
+      "era": "today",
+      "art": "building",
+      "key": false,
+      "title": "Zagreb: 119 falling cats",
+      "who": "D. Vnuk and colleagues",
+      "where": "University of Zagreb",
+      "country": "Croatia",
+      "text": "Vets in Zagreb studied 119 cats that fell 2 to 16 storeys; 96.5% survived. Injuries got sharply worse from the 7th storey up.",
+      "why": "Challenged the idea that higher falls are safer.",
+      "box": "landing",
+      "sources": [
+        32,
+        42
+      ]
+    },
+    {
+      "year": 2014,
+      "date": "20 December 2014",
+      "era": "today",
+      "art": "motor",
+      "key": false,
+      "title": "A robot cat flips in mid-air",
+      "who": "Takashi Kawamura",
+      "where": "Shinshu University",
+      "country": "Japan",
+      "text": "Kawamura analysed live cats and built a robotic cat that turned 180° in the air and landed upright.",
+      "why": "Showed the cat strategy works in machines.",
+      "box": "beyond",
+      "sources": [
+        35
+      ]
+    },
+    {
+      "year": 2019,
+      "date": "22 October 2019",
+      "era": "today",
+      "art": "word",
+      "key": true,
+      "title": "Falling Felines and Fundamental Physics",
+      "who": "Gregory J. Gbur",
+      "where": "UNC Charlotte",
+      "country": "United States",
+      "text": "Physicist Gregory Gbur published a book-length history of the falling cat problem with Yale University Press.",
+      "why": "The first full history of the puzzle.",
+      "box": "",
+      "sources": [
+        8,
+        7,
+        9
+      ]
+    },
+    {
+      "year": 2021,
+      "date": "9 September 2021",
+      "era": "today",
+      "art": "chip",
+      "key": false,
+      "title": "Mini Cheetah, the falling cat",
+      "who": "Vince Kurtz, He Li, Patrick Wensing, Hai Lin",
+      "where": "University of Notre Dame",
+      "country": "United States",
+      "text": "Researchers combined trajectory optimisation and machine learning so the Mini Cheetah robot dog could rotate in mid-air and land on its feet, from starting pitch angles of -90 to 90 degrees.",
+      "why": "Cat-style righting for legged robots.",
+      "box": "beyond",
+      "sources": [
+        36
+      ]
+    },
+    {
+      "year": 2026,
+      "date": "24 February 2026",
+      "era": "today",
+      "art": "skeleton",
+      "key": true,
+      "title": "The cat's twisty upper spine",
+      "who": "Yasuo Higurashi and colleagues",
+      "where": "Yamaguchi University",
+      "country": "Japan",
+      "text": "Tests on cat spines found the chest section twists far more easily than the lower back, with a 47° 'free play' zone. High-speed film showed the front half finishes turning first.",
+      "why": "New anatomical support for the front-first, sequential model.",
+      "box": "puzzle",
+      "sources": [
+        37,
+        38,
+        39
+      ]
+    }
+  ],
+  "firsts": [
+    {
+      "label": "First research paper on cat righting (per Gbur)",
+      "value": "1700",
+      "who": "Antoine Parent, France"
+    },
+    {
+      "label": "First photographs of a falling cat",
+      "value": "1894",
+      "who": "Étienne-Jules Marey, France"
+    },
+    {
+      "label": "Falling cat filmed at 1,500 frames a second",
+      "value": "1955",
+      "who": "Donald A. McDonald, UK"
+    },
+    {
+      "label": "Full mechanical model of the turn",
+      "value": "1969",
+      "who": "Thomas R. Kane and M. P. Scher, United States"
+    },
+    {
+      "label": "Robot cat that flips over in mid-air",
+      "value": "2014",
+      "who": "Takashi Kawamura, Japan"
+    }
+  ],
+  "people": [
+    {
+      "name": "Antoine Parent",
+      "life": "1666-1716",
+      "role": "Mathematician/physicist; first paper on cat-righting (1700, per Gbur)",
+      "from": "France",
+      "note": "Élève at the Académie des Sciences from 1699."
+    },
+    {
+      "name": "James Clerk Maxwell",
+      "life": "",
+      "role": "Physicist; experimented with dropping cats",
+      "from": "Scotland, UK",
+      "note": "Letter of 3 Jan 1870."
+    },
+    {
+      "name": "George Gabriel Stokes",
+      "life": "",
+      "role": "Physicist; interested in 'cat-turning'",
+      "from": "UK (Cambridge)",
+      "note": "Recorded by his daughter in 1907."
+    },
+    {
+      "name": "Isabella Humphry (Mrs Laurence Humphry)",
+      "life": "",
+      "role": "Stokes's daughter; wrote the memoir recording his cat-turning",
+      "from": "UK",
+      "note": "Named on the page as Mrs Laurence Humphry."
+    },
+    {
+      "name": "Étienne-Jules Marey",
+      "life": "1830-1904",
+      "role": "Physiologist and chronophotographer",
+      "from": "France",
+      "note": "Filmed the falling cat at the Station physiologique, 1894."
+    },
+    {
+      "name": "Émile Guyou",
+      "life": "",
+      "role": "Naval officer ('commandant') and Académie member; supplied the mechanical explanation",
+      "from": "France",
+      "note": "First name not on the CR pages read."
+    },
+    {
+      "name": "Maurice Lévy",
+      "life": "",
+      "role": "Engineer-mathematician, Académie member",
+      "from": "France",
+      "note": "Note of 29 Oct 1894."
+    },
+    {
+      "name": "Marcel Deprez",
+      "life": "",
+      "role": "Engineer, Académie member",
+      "from": "France",
+      "note": "Note of 5 Nov 1894; had urged Marey to photograph the cat."
+    },
+    {
+      "name": "Paul Appell",
+      "life": "",
+      "role": "Mathematician",
+      "from": "France",
+      "note": "Wheel-and-workers example, 5 Nov 1894."
+    },
+    {
+      "name": "Giuseppe Peano",
+      "life": "1858-1932",
+      "role": "Mathematician",
+      "from": "Italy",
+      "note": "Cat note, Rivista di Matematica, Jan 1895."
+    },
+    {
+      "name": "Vito Volterra",
+      "life": "1860-1940",
+      "role": "Mathematician",
+      "from": "Italy",
+      "note": "Disputed Peano over Earth's pole motion 1895-96."
+    },
+    {
+      "name": "Eadweard Muybridge",
+      "life": "",
+      "role": "Photographer",
+      "from": "UK/US",
+      "note": "Animal Locomotion plate 717: cat running (1887)."
+    },
+    {
+      "name": "Rudolf Magnus",
+      "life": "1873-1927",
+      "role": "Pharmacologist/physiologist; posture reflexes",
+      "from": "Germany (worked in Utrecht, Netherlands)",
+      "note": "Körperstellung, 1924."
+    },
+    {
+      "name": "G. G. J. Rademaker",
+      "life": "1887-1957",
+      "role": "Physiologist/neurologist; bend-and-twist model with ter Braak",
+      "from": "Netherlands",
+      "note": "Born The Hague 19 Mar 1887; Leiden professor from 1928."
+    },
+    {
+      "name": "Blanche Stoltz (Maria Josephina Wenceslase Stoltz)",
+      "life": "",
+      "role": "Rademaker's wife and de facto first assistant, caring for operated animals",
+      "from": "French Alsace",
+      "note": "Her care was crucial to his experiments."
+    },
+    {
+      "name": "J. W. G. ter Braak",
+      "life": "",
+      "role": "Physiologist/neurologist; co-author of bend-and-twist",
+      "from": "Netherlands",
+      "note": "Later professor of clinical neurology, Rotterdam."
+    },
+    {
+      "name": "Donald A. McDonald",
+      "life": "",
+      "role": "Physiologist; filmed cats at 1500 fps",
+      "from": "UK",
+      "note": "J Physiol 1955; New Scientist 1960 (Wikipedia)."
+    },
+    {
+      "name": "Thomas R. Kane",
+      "life": "",
+      "role": "Stanford engineering professor; cat model and astronaut self-rotation",
+      "from": "United States",
+      "note": "With M. P. Scher, 1969."
+    },
+    {
+      "name": "M. P. Scher",
+      "life": "",
+      "role": "Co-author of Kane & Scher 1969",
+      "from": "United States (Stanford)",
+      "note": ""
+    },
+    {
+      "name": "T. Yamamoto",
+      "life": "",
+      "role": "Physiologist; newborn kitten righting study",
+      "from": "Japan",
+      "note": "1978."
+    },
+    {
+      "name": "J. A. Sechzer",
+      "life": "",
+      "role": "Lead author of 1984 kitten postural-reflex study",
+      "from": "United States",
+      "note": "Full first name not on page read."
+    },
+    {
+      "name": "W. O. Whitney & C. J. Mehlhaff",
+      "life": "",
+      "role": "Veterinarians, Animal Medical Center NY",
+      "from": "United States",
+      "note": "Described 132 New York cats treated after high falls (1987)."
+    },
+    {
+      "name": "Alfred Shapere & Frank Wilczek",
+      "life": "",
+      "role": "Theoretical physicists; shape-space gauge fields",
+      "from": "United States (UCSB)",
+      "note": "PRL 1987."
+    },
+    {
+      "name": "Richard Montgomery",
+      "life": "",
+      "role": "Mathematician; gauge theory of the falling cat",
+      "from": "United States (UC Santa Cruz)",
+      "note": "Falling-cat research 1986-1998; later three-body problem."
+    },
+    {
+      "name": "D. Vnuk",
+      "life": "",
+      "role": "Veterinary surgeon; Zagreb high-rise study",
+      "from": "Croatia",
+      "note": "First name not on page read."
+    },
+    {
+      "name": "Takashi Kawamura",
+      "life": "",
+      "role": "Roboticist; robot cat",
+      "from": "Japan (Shinshu University)",
+      "note": ""
+    },
+    {
+      "name": "Yasuo Higurashi",
+      "life": "",
+      "role": "Veterinary anatomist; spine torsion study",
+      "from": "Japan (Yamaguchi University)",
+      "note": "2026."
+    },
+    {
+      "name": "Gregory J. Gbur",
+      "life": "",
+      "role": "Physicist and historian of the problem",
+      "from": "United States (UNC Charlotte)",
+      "note": "Book 2019."
+    }
+  ],
+  "series": [
+    {
+      "id": "kittens",
+      "title": "Age at which kittens' air righting is mature, by study",
+      "unit": "days after birth",
+      "log": false,
+      "after": "body",
+      "caption": "Separate studies agree: the reflex is mature at about five weeks.",
+      "points": [
+        {
+          "year": 1978,
+          "value": 28,
+          "label": "Yamamoto: none at 27 days or younger"
+        },
+        {
+          "year": 1979,
+          "value": 35,
+          "label": "Villablanca and Olmstead: mature by day 35"
+        },
+        {
+          "year": 1984,
+          "value": 33,
+          "label": "Cremieux and colleagues: mature by day 33, blind or sighted"
+        }
+      ]
+    },
+    {
+      "id": "storeys",
+      "title": "Average fall in high-rise cat studies",
+      "unit": "storeys",
+      "log": false,
+      "after": "today",
+      "caption": "Most cats in these studies fell three to six storeys.",
+      "points": [
+        {
+          "year": 1987,
+          "value": 5.5,
+          "label": "New York (Whitney and Mehlhaff)"
+        },
+        {
+          "year": 1998,
+          "value": 3.1,
+          "label": "Copenhagen (Flagstad and colleagues)"
+        },
+        {
+          "year": 2001,
+          "value": 3.7,
+          "label": "Greece, 207 cats (Papazoglou and colleagues)"
+        },
+        {
+          "year": 2004,
+          "value": 4.0,
+          "label": "Zagreb, 119 cats (Vnuk and colleagues)"
+        }
+      ]
+    }
+  ],
+  "facts": [
+    "In 1870 Maxwell wrote that a cat dropped onto a bed from about two inches still landed on its feet.",
+    "Marey's 1894 frames show the cat starts with no spin, so it cannot have pushed off the hand that let it go.",
+    "Kittens blind from birth develop the air-righting reflex on the same timetable as sighted kittens.",
+    "In a 2026 study, the front half of a falling cat finished turning before the back half, helped by a very twistable chest spine.",
+    "Mathematicians use the falling cat as a textbook example of a geometric phase, the same idea that describes swimming microbes."
+  ],
+  "sources": [
+    {
+      "title": "Comptes rendus hebdomadaires des séances de l'Académie des sciences, t.119 (1894, 2e semestre, nos 18-27) — full-text scan",
+      "publisher": "Académie des sciences (scan: Internet Archive, from Harvard MCZ Ernst Mayr Library)",
+      "url": "https://archive.org/details/comptesrendusheb11918271894acad"
+    },
+    {
+      "title": "Des mouvements que certains animaux exécutent pour retomber sur leurs pieds... (C. R. Acad. Sci. 1894, 119: 714-717) — digitised offprint",
+      "publisher": "Bibliothèque interuniversitaire de médecine / Université Paris Cité (Numerabilis)",
+      "url": "https://numerabilis.u-paris.fr/ressources/pdf/medica/bibnum/marey176/marey176.pdf"
+    },
+    {
+      "title": "Photographs of a Tumbling Cat",
+      "publisher": "Nature (Springer Nature)",
+      "url": "https://www.nature.com/articles/051080a0"
+    },
+    {
+      "title": "Chronophotographic Film of Cat Falling ('Chat chute')",
+      "publisher": "Science Museum Group Collection (National Science and Media Museum, Bradford)",
+      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co8352428/chronophotograph-of-chat-chute-or-cat-falling"
+    },
+    {
+      "title": "Photographs of a Falling Cat (1894)",
+      "publisher": "The Public Domain Review",
+      "url": "https://publicdomainreview.org/collection/photographs-of-a-falling-cat-1894"
+    },
+    {
+      "title": "The Life of James Clerk Maxwell (Lewis Campbell & William Garnett), Macmillan, 1882",
+      "publisher": "Internet Archive (University of Toronto copy)",
+      "url": "https://archive.org/details/lifeofjamesclerk00campuoft"
+    },
+    {
+      "title": "Memoir and Scientific Correspondence of the late Sir George Gabriel Stokes, vol. 1 (ed. J. Larmor, 1907)",
+      "publisher": "Internet Archive (Cambridge University Press 1907 edition)",
+      "url": "https://archive.org/details/memoirscientific01stokrich"
+    },
+    {
+      "title": "The enduring puzzle of why cats always land on their feet (Gregory J. Gbur)",
+      "publisher": "BBC Science Focus",
+      "url": "https://www.sciencefocus.com/science/the-enduring-puzzle-of-why-cats-always-land-on-their-feet"
+    },
+    {
+      "title": "Falling Felines and Fundamental Physics",
+      "publisher": "Yale University Press",
+      "url": "https://yalebooks.yale.edu/book/9780300231298/falling-felines-and-fundamental-physics/"
+    },
+    {
+      "title": "Greg Gbur discusses why cats always land on their feet",
+      "publisher": "UNC Charlotte College of Science",
+      "url": "https://science.charlotte.edu/?p=23297"
+    },
+    {
+      "title": "1895: Cats meddle in geophysics",
+      "publisher": "Skulls in the Stars (blog of Gregory Gbur)",
+      "url": "https://skullsinthestars.com/2014/03/04/1895-cats-meddle-in-geophysics/"
+    },
+    {
+      "title": "Peano and the cat, and the earth",
+      "publisher": "Improbable Research",
+      "url": "https://improbable.com/2016/05/14/53834"
+    },
+    {
+      "title": "Parent, Antoine (Complete Dictionary of Scientific Biography)",
+      "publisher": "Encyclopedia.com / Charles Scribner's Sons",
+      "url": "https://encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/parent-antoine"
+    },
+    {
+      "title": "A cat running. Collotype after Eadweard Muybridge, 1887",
+      "publisher": "Wellcome Collection",
+      "url": "https://wellcomecollection.org/works/an4bpesp"
+    },
+    {
+      "title": "Magnus, Körperstellung (1924) — bibliographic entry",
+      "publisher": "HistoryofMedicine.com (Jeremy Norman's bibliography)",
+      "url": "https://www.historyofmedicine.com/id/537"
+    },
+    {
+      "title": "G.G.J. Rademaker 1887-1957 (L.A.H. Hogenhuis), History of Neurology in the Netherlands ch.25",
+      "publisher": "Nederlandse Vereniging voor Neurologie",
+      "url": "https://www.neurologie.nl/wp-content/uploads/2022/01/History-of-Neurology-in-the-Netherlands-hoofdstuk-25-blz-353-360.pdf"
+    },
+    {
+      "title": "The righting movements of the freely falling cat (filmed at 1500 f.p.s.)",
+      "publisher": "Europe PMC (record of The Journal of Physiology)",
+      "url": "https://europepmc.org/article/MED/13264126"
+    },
+    {
+      "title": "How a falling cat turns over in the air",
+      "publisher": "Europe PMC (record of Science)",
+      "url": "https://europepmc.org/article/MED/17780393"
+    },
+    {
+      "title": "A dynamical explanation of the falling cat phenomenon (NTRS record 19690058843)",
+      "publisher": "NASA Technical Reports Server",
+      "url": "https://ntrs.nasa.gov/citations/19690058843"
+    },
+    {
+      "title": "Dynamics of human self-rotation (NTRS record 19700012125)",
+      "publisher": "NASA Technical Reports Server",
+      "url": "https://ntrs.nasa.gov/citations/19700012125"
+    },
+    {
+      "title": "The experiment to determine whether an astronaut could... (Lauren Davis)",
+      "publisher": "Gizmodo",
+      "url": "https://gizmodo.com/the-experiment-to-determine-whether-an-astronaut-could-5882344"
+    },
+    {
+      "title": "Why Did The Air Force Play With Cats In Space? (Amy Shira Teitel)",
+      "publisher": "Popular Science",
+      "url": "https://www.popsci.com/why-did-air-force-play-with-cats-in-space/"
+    },
+    {
+      "title": "Self-Propulsion at Low Reynolds Number",
+      "publisher": "Physical Review Letters (American Physical Society)",
+      "url": "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.58.2051"
+    },
+    {
+      "title": "Richard Montgomery — publications list",
+      "publisher": "University of California, Santa Cruz (faculty web pages)",
+      "url": "https://peopleweb.prd.web.aws.ucsc.edu/~rmont/papers/list.html"
+    },
+    {
+      "title": "Three-body problem (Tim Stephens)",
+      "publisher": "UC Santa Cruz News",
+      "url": "https://news.ucsc.edu/2019/08/three-body-problem.html"
+    },
+    {
+      "title": "Studies on righting reflexes in newborn cats falling in the air",
+      "publisher": "Europe PMC (record of Nihon Seirigaku Zasshi)",
+      "url": "https://europepmc.org/article/MED/712647"
+    },
+    {
+      "title": "Neurological development of kittens",
+      "publisher": "Europe PMC (record of Developmental Psychobiology)",
+      "url": "https://europepmc.org/article/MED/456750"
+    },
+    {
+      "title": "Development and maturation of postural reflexes in normal kittens",
+      "publisher": "Europe PMC (record of Experimental Neurology)",
+      "url": "https://europepmc.org/article/MED/6499990"
+    },
+    {
+      "title": "Development of the air righting reflex in cats visually deprived since birth",
+      "publisher": "Europe PMC (record of Experimental Brain Research)",
+      "url": "https://europepmc.org/article/MED/6723872"
+    },
+    {
+      "title": "The postnatal development of the air-righting reaction in albino rats",
+      "publisher": "Europe PMC (record of Behavioural Brain Research)",
+      "url": "https://europepmc.org/article/MED/2310493"
+    },
+    {
+      "title": "Disorientation of animals in microgravity",
+      "publisher": "Europe PMC (record of Nagoya Journal of Medical Science)",
+      "url": "https://europepmc.org/article/MED/8725490"
+    },
+    {
+      "title": "High-rise syndrome in cats",
+      "publisher": "Europe PMC (record of JAVMA)",
+      "url": "https://europepmc.org/article/MED/3692980"
+    },
+    {
+      "title": "Feline high-rise syndrome: 119 cases (1998-2001)",
+      "publisher": "PubMed Central (J Feline Med Surg)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10822212/"
+    },
+    {
+      "title": "High Rise Syndrome in Cats",
+      "publisher": "Animal Medical Center (New York)",
+      "url": "https://www.amcny.org/blog/2014/07/09/high-rise-syndrome-in-cats/"
+    },
+    {
+      "title": "Whatever You Do, Don't Let Your Cat Do This (Dr. Amy Attas)",
+      "publisher": "Literary Hub (excerpt from Pets and the City, Putnam 2024)",
+      "url": "https://lithub.com/whatever-you-do-dont-let-your-cat-do-this/"
+    },
+    {
+      "title": "Understanding of Falling Cat Phenomenon and Realization by Robot",
+      "publisher": "Journal of Robotics and Mechatronics (J-STAGE)",
+      "url": "https://www.jstage.jst.go.jp/article/jrobomech/26/6/26_685/_article"
+    },
+    {
+      "title": "Mini Cheetah, the Falling Cat: A Case Study in Machine Learning and Trajectory Optimization for Robot Acrobatics",
+      "publisher": "arXiv (ICRA 2022 paper)",
+      "url": "https://arxiv.org/abs/2109.04424"
+    },
+    {
+      "title": "Torsional flexibility of the thoracic spine is superior to that of the lumbar spine in cats: Implications for the falling cat problem",
+      "publisher": "Europe PMC (record of The Anatomical Record)",
+      "url": "https://europepmc.org/article/MED/41734949"
+    },
+    {
+      "title": "Press release on torsional flexibility of the cat spine",
+      "publisher": "Yamaguchi University (RICeD / Joint Faculty of Veterinary Medicine)",
+      "url": "https://ds0n.cc.yamaguchi-u.ac.jp/~celldesign/en_news/260430en/"
+    },
+    {
+      "title": "Cats' flexible spines help them pull off the mid-air twist (Rosie McCall)",
+      "publisher": "Discover Magazine",
+      "url": "https://www.discovermagazine.com/cats-flexible-spines-help-them-pull-off-the-mid-air-twist-and-land-on-their-feet-48825"
+    },
+    {
+      "title": "Falling cat problem",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Falling_cat_problem"
+    },
+    {
+      "title": "Cat righting reflex",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Cat_righting_reflex"
+    },
+    {
+      "title": "High-rise syndrome",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/High-rise_syndrome"
+    }
+  ]
+}

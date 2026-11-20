@@ -1,0 +1,109 @@
+{
+  "slug": "catlandingclear",
+  "box": 251,
+  "date": "2026-12-18",
+  "title": "CatLandingClear",
+  "question": "How does a falling cat land on its feet?",
+  "hook": "Let go of a cat upside down with no spin and it lands on its feet. Physics says its spin must stay at zero the whole way down. Both are true, and the trick is shape.",
+  "thumbText": "CATS LAND HOW?",
+  "field": "nature",
+  "minutes": 7,
+  "tags": [
+    "cat",
+    "falling cat",
+    "angular momentum",
+    "righting reflex",
+    "physics",
+    "biomechanics",
+    "vestibular system",
+    "robotics"
+  ],
+  "explainer": [
+    {
+      "title": "The puzzle",
+      "text": "A cat dropped upside down with no spin is upright within about a third of a second. With nothing to push on, its total angular momentum must stay at zero, so for a while the feat looked impossible."
+    },
+    {
+      "title": "Shape, not spin",
+      "text": "A body that can change shape can end up facing a new way while its total spin stays zero. The cat's front and back halves turn in opposite directions, and how far each turns depends on its shape."
+    },
+    {
+      "title": "Tuck and turn",
+      "text": "Tuck the front legs and stretch the back legs, then twist: the front turns a lot and the back a little. Swap the legs and twist back, and the whole cat keeps a net turn."
+    },
+    {
+      "title": "Bend and twist",
+      "text": "Kane and Scher's 1969 model bends the cat at the waist and swings the bend round its body. The halves roll against each other and the body comes out turned over, with zero spin throughout."
+    },
+    {
+      "title": "Knowing which way is up",
+      "text": "The inner ear's canals sense turning and its otoliths sense gravity; the eyes help. In lab studies kittens first show the reflex at about 3½ weeks and have mastered it by about 5 weeks."
+    },
+    {
+      "title": "The landing, and beyond",
+      "text": "Legs out and back arched, the cat stops over a longer distance. Its top speed is often estimated at about 100 km/h. Astronauts, divers and robots use the same physics. Never drop a cat to test it."
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Angular momentum",
+      "def": "How much spin a body has. With no outside twist, it stays the same."
+    },
+    {
+      "term": "Moment of inertia",
+      "def": "How hard something is to set turning about an axis. Mass far from the axis makes it larger."
+    },
+    {
+      "term": "Righting reflex",
+      "def": "The automatic movement an animal makes to turn itself the right way up."
+    },
+    {
+      "term": "Tuck and turn",
+      "def": "Pulling in the legs on one half and stretching them on the other, so the two halves turn by different angles."
+    },
+    {
+      "term": "Bend and twist",
+      "def": "Bending at the waist and swinging the bend round the body, so the halves' rolls leave a net turn."
+    },
+    {
+      "term": "Geometric phase",
+      "def": "A net change that depends only on the shape of a loop of movements, not on how fast it is made."
+    },
+    {
+      "term": "Vestibular system",
+      "def": "The balance organs of the inner ear: three semicircular canals that sense turning and two otolith organs that sense gravity."
+    },
+    {
+      "term": "Terminal velocity",
+      "def": "The steady speed at which air drag equals weight, so a falling body stops speeding up."
+    },
+    {
+      "term": "Survivorship bias",
+      "def": "Drawing conclusions only from the cases that made it into the data, while the others are missing."
+    },
+    {
+      "term": "Chronophotography",
+      "def": "A series of photographs taken at quick, regular intervals to study movement."
+    }
+  ],
+  "links": {},
+  "storage": [
+    {
+      "key": "catlandingclear.v1",
+      "what": "Which chapters you have opened, your best quiz scores, and sound on or off."
+    }
+  ],
+  "credits": [
+    {
+      "name": "three.js",
+      "license": "MIT",
+      "url": "https://threejs.org"
+    },
+    {
+      "name": "Geist, Instrument Serif",
+      "license": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org"
+    }
+  ],
+  "thumbScene": 1
+}
